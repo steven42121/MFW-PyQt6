@@ -5,7 +5,6 @@ GPU 信息缓存模块
 """
 
 import platform
-import subprocess
 from typing import Dict, Optional
 
 from app.utils.logger import logger
